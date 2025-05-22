@@ -1,0 +1,15 @@
+langchain
+openai
+faiss-cpu
+pandas
+pydantic
+numpy
+requests
+fitz
+PyMuPDF
+streamlit
+document_ingestion
+langchain-community
+transformers
+torch
+tiktoken
